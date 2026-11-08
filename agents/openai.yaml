@@ -1,0 +1,4 @@
+interface:
+  display_name: "研究對話交接記憶"
+  short_description: "比對前次工作進度，匯出研究脈絡與實驗成果，支援跨電腦連續接續工作"
+  default_prompt: "使用 $conversation-handoff 匯出 全部，先比對上次記憶，再整理近期研究脈絡與實驗結果。"
